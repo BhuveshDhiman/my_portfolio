@@ -64,3 +64,5 @@ node_modules/
 
 # dotenv environment variables file
 .env
+.github/workflows/firebase-hosting-pull-request.yml
+.github/workflows/firebase-hosting-merge.yml
